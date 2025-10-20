@@ -47,7 +47,7 @@ user-login-system-jdbc-servlets/
 - Apache Tomcat Server
 
 ## ⚙️ Setup Instructions
-
+```
 1. Clone this repository
    git clone https://github.com/karthik-koppera.github.io/user-login-system-jdbc-servlets.git
 
@@ -71,16 +71,7 @@ password VARCHAR(100) NOT NULL
    Add to Apache Tomcat Server
    Open in browser
    http://localhost:8080/user-login-system-jdbc-servlets/login.html
-
-## 📸 Preview
-
-Here’s a preview of the User login system:
-
-![User Login system Preview](screenshot.png)
-
-## Live Demo
-
-👉 [Play the Game Here](https://karthik-koppera.github.io/lottery-game-html-css-js/)
+```
 
 ## 🧠 Learning Outcome
 
