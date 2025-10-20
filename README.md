@@ -16,23 +16,17 @@ Servlet-based backend logic
 ## 📂 Project Structure
 ```
 user-login-system-jdbc-servlets/
-│── src/
-│ └── com/example/servlets/
-│ ├── RegisterServlet.java
-│ └── LoginServlet.java
-│
-│── WebContent/
+│── RegisterServlet.java
+│──LoginServlet.java
 │ ├── login.html
 │ ├── register.html
-│ ├── css/
-│ │ └── style.css
 │
 │── WEB-INF/
 │ └── web.xml
-│
-│── lib/
-│ └── mysql-connector-j-8.0.xx.jar
-│
+│└── classes
+│└──lib/
+│ └── mysql-connector-j-9.3.0.jar
+│└── ojdbc17.jar
 │── README.md
 ```
 ---
