@@ -14,7 +14,7 @@ Servlet-based backend logic
 ---
 
 ## 📂 Project Structure
-
+```
 user-login-system-jdbc-servlets/
 │── src/
 │ └── com/example/servlets/
@@ -34,7 +34,7 @@ user-login-system-jdbc-servlets/
 │ └── mysql-connector-j-8.0.xx.jar
 │
 │── README.md
-
+```
 ---
 
 ## 🛠️ Technologies Used
